@@ -8,6 +8,11 @@ Forked from https://github.com/al5ina5/mobileconfig
 * have it working without password
 * setup Docker 
 
+# doc
+
+* https://developer.apple.com/documentation/devicemanagement/mail
+* https://dev.to/al5ina5/generate-mobileconfig-files-to-make-mailbox-set-up-a-breeze-for-your-clients-3cjf
+
 # Docker
 
 ```
