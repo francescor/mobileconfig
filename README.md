@@ -4,6 +4,10 @@ Generate multi-use .mobileconfig files for your mailboxes
 
 Forked from https://github.com/al5ina5/mobileconfig 
 
+* removed password input (dangerous and useless)
+* have it working without password
+* setup Docker 
+
 # Docker
 
 ```
