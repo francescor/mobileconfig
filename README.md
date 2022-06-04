@@ -8,7 +8,7 @@ Forked from https://github.com/al5ina5/mobileconfig
 
 ```
 docker build -f Dockerfile -t mobileconfig .
-docker run -it -p 4000:3000 client
+docker run -it -p 4000:3000 mobileconfig
 ```
 
 then http://localhost:4000
